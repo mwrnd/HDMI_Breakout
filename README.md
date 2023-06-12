@@ -5,6 +5,8 @@
 
 [HDMI](https://en.wikipedia.org/wiki/HDMI) to [U.FL/UMCC Connector](https://en.wikipedia.org/wiki/Hirose_U.FL) breakout.
 
+[hdmi_pmod](https://github.com/adwranovsky/hdmi_pmod) is a similar project but with a [PMOD](https://en.wikipedia.org/wiki/Pmod_Interface) interface.
+
 
 # PCB Layout
 
