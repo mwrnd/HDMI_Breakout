@@ -14,6 +14,8 @@
 
 All differential signals are length-matched to within 1mm, both inter-pair and intra-pair.
 
+I used the KiCad-included symbol and footprint for the [10029449-111RLF](https://www.digikey.com/en/products/detail/amphenol-cs-fci/10029449-111RLF/2785386). The U.FL/UMCC connectors can be [CONUFL001-SMD-T](https://www.trustedparts.com/en/search/CONUFL001-SMD-T) or [U.FL-R-SMT](https://www.trustedparts.com/en/search/U.FL-R-SMT).
+
 
 # Schematic
 
