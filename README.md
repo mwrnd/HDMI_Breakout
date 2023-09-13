@@ -1,4 +1,4 @@
-**Work-In-Progress**: [Gerbers ready](https://github.com/mwrnd/HDMI_Breakout/releases/tag/v0.1-alpha) but not yet ordered.
+**Work-In-Progress**: [Gerbers produced](https://github.com/mwrnd/HDMI_Breakout/releases/tag/v0.1-alpha) and awaiting testing.
 
 
 # HDMI Breakout
@@ -6,6 +6,8 @@
 [HDMI](https://en.wikipedia.org/wiki/HDMI) to [U.FL/UMCC Connector](https://en.wikipedia.org/wiki/Hirose_U.FL) breakout.
 
 [hdmi_pmod](https://github.com/adwranovsky/hdmi_pmod) is a similar project but with a [PMOD](https://en.wikipedia.org/wiki/Pmod_Interface) interface.
+
+![HDMI Breakout PCB](img/HDMI_Breakout.jpg)
 
 
 # PCB Layout
